@@ -10,3 +10,4 @@
 - Login to [hoyolab](https://hoyolab.com)
 - Get relevant cookies mentioned in config.sample.py and put them in a new file named config.py
 - Run the script as `py script.py` or `python3 script.py` (default chrome driver) or with the flags `-F/--firefox` for the firefox driver
+- Run `daily-task.bat` to add it as an automated task to which runs everyday after 2 pm

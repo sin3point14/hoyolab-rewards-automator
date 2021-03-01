@@ -2,6 +2,7 @@
 
 ### How to use?
 
+- install python3
 - `pip3 install -r requirements.txt`
 - Login to [hoyolab](https://hoyolab.com)
 - Get relevant cookies mentioned in config.sample.py and put them in a new file named config.py

@@ -32,6 +32,7 @@ def run_script(browser):
         browser.find_element_by_class_name('header__signin').click()
     except NoSuchElementException:
         print("Element does not exist")
+    time.sleep(5)
     browser.quit()
 
 if __name__ == "__main__":
